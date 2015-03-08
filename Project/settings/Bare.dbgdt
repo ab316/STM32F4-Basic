@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>Build</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory>
+          
+          
+          
+        <item>0x08000000</item><item>EXX</item><item>33</item><item>RCC</item></DisasmHistory>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <DRIVER_DATA_LOG>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        <col-names>
+          
+          
+        <item>Program Counter</item><item>Time</item></col-names>
+        <col-widths>
+          
+          
+        <item>130</item><item>180</item></col-widths>
+      </DRIVER_DATA_LOG>
+      <WATCH_1>
+        <expressions>
+          
+          
+        <item>RCC_BASE</item><item>p</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>203</item><item>150</item><item>100</item><item>425</item></col-widths>
+      </WATCH_1>
+      <Memory>
+        
+        
+      <FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory>
+      <SymbolicMemory>
+        <PreferedWindows>
+          <Position>0</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        
+        <col-names>
+          
+          
+          
+          
+          
+        <item>Data</item><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+          
+        <item>100</item><item>122</item><item>100</item><item>100</item><item>100</item></col-widths>
+        <SymMemHistory>
+          
+          
+          
+        <item>RCC</item><item>&amp;a</item><item>a</item></SymMemHistory>
+      <zone>Memory</zone></SymbolicMemory>
+      <Register/>
+      <Auto>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>168</item><item>150</item><item>100</item><item>271</item></col-widths>
+      </Auto>
+      <Locals>
+        <col-names>
+          
+          
+          
+          
+        <item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>150</item><item>100</item><item>178</item><item>168</item></col-widths>
+      </Locals>
+      <CodeCoveragePlugin>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        
+      <Autoreload>0</Autoreload></CodeCoveragePlugin>
+      <CallStack>
+        <col-names>
+          
+          
+        <item>Frame</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>400</item><item>20</item></col-widths>
+      </CallStack>
+      <TerminalIO>
+        
+        
+        
+        
+        
+      <InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO>
+    <StaticWatch><expressions><item>tim4</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>245</item><item>150</item><item>100</item><item>404</item></col-widths></StaticWatch><Tool-Output/><Find-In-Trace-Extra><col-names><item>Comment</item><item>Cycles</item><item>Event</item><item>Index</item><item>SWO Packet</item><item>Trace</item><item>Value</item></col-names><col-widths><item>400</item><item>100</item><item>200</item><item>70</item><item>100</item><item>300</item><item>100</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Find-In-Trace-Extra><IMAGES_WINDOW><PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Name</item><item>Path</item></col-names><col-widths><item>100</item><item>300</item></col-widths></IMAGES_WINDOW><Extra-Trace><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Comment</item><item>Cycles</item><item>Event</item><item>Index</item><item>SWO Packet</item><item>Trace</item><item>Value</item></col-names><col-widths><item>400</item><item>100</item><item>200</item><item>70</item><item>100</item><item>300</item><item>100</item></col-widths></Extra-Trace><DRIVER_INTERRUPT_LOG><col-names><item>Execution Time</item><item>Interrupt</item><item>Program Counter</item><item>Status</item><item>Time</item></col-names><col-widths><item>115</item><item>110</item><item>125</item><item>77</item><item>208</item></col-widths></DRIVER_INTERRUPT_LOG><PROFILING2><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Function</item><item>PC Samples</item><item>PC Samples (%)</item></col-names><col-widths><item>220</item><item>80</item><item>100</item></col-widths></PROFILING2><DRIVER_TIMELINE_GRAPH><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></DRIVER_TIMELINE_GRAPH><Find-in-Files><ColumnWidth0>272</ColumnWidth0><ColumnWidth1>38</ColumnWidth1><ColumnWidth2>466</ColumnWidth2></Find-in-Files><Statics><excluded-vars/><col-names><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>150</item><item>100</item><item>100</item><item>429</item></col-widths></Statics></Static>
+    <Windows>
+      
+      
+      
+    <Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3843-3558</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-30944-5916</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28100-6174</Identity>
+            <TabName>Register</TabName>
+            <Factory>Register</Factory>
+            <Session>
+              
+              
+              
+              
+            <State1>TIM2_SMCR</State1><REG1>0</REG1><REG2>0</REG2><Group>26</Group><States>1</States><State0>CONTROL</State0></Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-7942-6347</Identity>
+            <TabName>Auto</TabName>
+            <Factory>Auto</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28916-6363</Identity>
+            <TabName>Locals</TabName>
+            <Factory>Locals</Factory>
+          </Tab>
+        <Tab><Identity>TabID-19616-8566</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-12297-8703</Identity><TabName>Live Watch</TabName><Factory>StaticWatch</Factory></Tab><Tab><Identity>TabID-9683-8752</Identity><TabName>Tool Output</TabName><Factory>Tool-Output</Factory><Session/></Tab><Tab><Identity>TabID-22364-17292</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-30060-19604</Identity><TabName>Statics</TabName><Factory>Statics</Factory></Tab></Tabs>
+        
+      <SelectedTab>5</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15114-3551</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Bare</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24148-6043</Identity>
+            <TabName>Memory</TabName>
+            <Factory>Memory</Factory>
+            <Session>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            <ZoneNumber>3</ZoneNumber><SelectionAnchor>3</SelectionAnchor><SelectionEnd>3</SelectionEnd><UnitsPerGroup>1</UnitsPerGroup><EndianMode>0</EndianMode><DataCovEnabled>0</DataCovEnabled><DataCovShown>0</DataCovShown><AutoRefresh>1</AutoRefresh><HScroll>0</HScroll><VScroll>0</VScroll></Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-3760-6425</Identity>
+            <TabName>Code Coverage</TabName>
+            <Factory>CodeCoveragePlugin</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-2191-6454</Identity>
+            <TabName>Call Stack</TabName>
+            <Factory>CallStack</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-100-6494</Identity>
+            <TabName>Terminal I/O</TabName>
+            <Factory>TerminalIO</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-20042-12423</Identity><TabName>Interrupt Log</TabName><Factory>DRIVER_INTERRUPT_LOG</Factory></Tab><Tab><Identity>TabID-19269-15917</Identity><TabName>Symbolic Memory</TabName><Factory>SymbolicMemory</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>4</SelectedTab></Wnd6><Wnd7><Tabs><Tab><Identity>TabID-24592-2964</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\basic6.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>197</YPos2><SelStart2>1326</SelStart2><SelEnd2>1326</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\basic7.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>168</YPos2><SelStart2>6500</SelStart2><SelEnd2>6500</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\basic8.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>285</YPos2><SelStart2>12851</SelStart2><SelEnd2>12851</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>57</YPos2><SelStart2>2732</SelStart2><SelEnd2>2732</SelEnd2></Tab><ActiveTab>3</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00d62370><key>iaridepm.enu1</key></Toolbar-00d62370><Toolbar-067b32b8><key>debuggergui.enu1</key></Toolbar-067b32b8><Toolbar-067b2ed0><key>armstlink.enu1</key></Toolbar-067b2ed0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>421</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>146413</sizeHorzCX><sizeHorzCY>291545</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>616618</sizeVertCY></Rect></Wnd5></Sizes></Row0></Left><Right><Row0><Sizes><Wnd7><Rect><Top>-2</Top><Left>-2</Left><Bottom>421</Bottom><Right>568</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>146413</sizeHorzCX><sizeHorzCY>291545</sizeHorzCY><sizeVertCX>417277</sizeVertCX><sizeVertCY>616618</sizeVertCY></Rect></Wnd7></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>220</Bottom><Right>811</Right><x>-2</x><y>-2</y><xscreen>813</xscreen><yscreen>222</yscreen><sizeHorzCX>595168</sizeHorzCX><sizeHorzCY>323615</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>291545</sizeVertCY></Rect></Wnd4><Wnd6><Rect><Top>0</Top><Left>0</Left><Bottom>325648866</Bottom><Right>-2147481992</Right><x>809</x><y>-2</y><xscreen>559</xscreen><yscreen>222</yscreen><sizeHorzCX>409224</sizeHorzCX><sizeHorzCY>323615</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>291545</sizeVertCY></Rect></Wnd6></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
